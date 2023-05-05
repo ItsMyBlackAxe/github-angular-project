@@ -6,22 +6,22 @@ form {
     padding: 20px;
     background-color: #f2f2f2;
     border-radius: 5px;
-  }
-  
-  label {
+}
+
+label {
     display: block;
     margin-bottom: 10px;
-  }
-  
-  input {
+}
+
+input {
     padding: 10px;
     font-size: 16px;
     border-radius: 5px;
     border: none;
     margin-bottom: 20px;
-  }
-  
-  button {
+}
+
+button {
     padding: 10px 20px;
     font-size: 16px;
     background-color: #4CAF50;
@@ -29,9 +29,15 @@ form {
     border: none;
     border-radius: 5px;
     cursor: pointer;
-  }
-  
-  button:hover {
+}
+
+button:hover {
     background-color: #3e8e41;
-  }
-  
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
