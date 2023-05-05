@@ -1,0 +1,10 @@
+
+Initial Chunk Files           | Names         |  Raw Size | Estimated Transfer Size
+main.d104be96e80573f7.js      | main          |  85.39 kB |                25.60 kB
+polyfills.798b7dc6d17e532e.js | polyfills     |  33.10 kB |                10.66 kB
+runtime.772b318603b9394f.js   | runtime       |   1.07 kB |               605 bytes
+styles.ef46db3751d8e999.css   | styles        |   0 bytes |                       -
+
+| Initial Total | 119.55 kB |                36.85 kB
+
+Build at: 2023-05-05T15:04:09.805Z - Hash: 60af87be9931e82c - Time: 10492ms
